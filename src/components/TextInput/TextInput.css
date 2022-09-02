@@ -1,0 +1,13 @@
+.text-input  {
+    width: 75%;
+    height: 40px;
+    border-radius: 10px;
+    margin-right: 5%;
+    margin-bottom: 20px;
+}
+
+input {
+    border: none;
+    outline: none;
+    padding: 8px;
+}

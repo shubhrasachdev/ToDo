@@ -1,0 +1,24 @@
+.task {
+    width: 100%;
+    height: 45px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+}
+
+.task div {
+    width: 85%;
+}
+
+.task button {
+    width: 15%;
+    background-color: rgb(219, 5, 5);
+    border: none;
+    color: white;
+}
+
+.task button:hover {
+    background-color: rgb(158, 3, 3);
+    cursor: pointer;
+    padding: 5px;
+}

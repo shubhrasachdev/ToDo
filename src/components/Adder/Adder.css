@@ -1,0 +1,16 @@
+.adder {
+    height: 40px;
+    width: 20%;
+    border-radius: 5px;
+}
+
+.adder button{
+    border: none;
+    background-color: green;
+    color: white;
+}
+
+.adder button:hover {
+    cursor: pointer;
+    background-color: rgb(2, 105, 2);
+}
